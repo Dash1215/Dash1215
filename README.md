@@ -1,4 +1,4 @@
-I am from Texas, and I like making stuff with python <simple 
+I am from Texas, and I like making stuff with python <-- simple 
 
 <!---
 Dash1215/Dash1215 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
